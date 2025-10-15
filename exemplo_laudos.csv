@@ -1,0 +1,11 @@
+Paciente,Tipo de análise,Clínica,Especialista,Quantidade
+João Silva,Diagnóstico de Panorâmica,Clínica Centro,Dr. Carlos,1
+Maria Santos,Tomografia da Maxila,Clínica Centro,Dr. Carlos,1
+Pedro Oliveira,Diagnóstico de Periapical,Clínica Norte,Dra. Ana,2
+Ana Costa,Tomografia de até 4 dentes,Clínica Norte,Dra. Ana,1
+Lucas Ferreira,Cefalometria Lateral,Clínica Centro,Dr. Carlos,1
+Julia Almeida,Tomografia da Mandíbula,Clínica Sul,Dr. Roberto,1
+Carlos Mendes,Diagnóstico de Interproximal (Bite Wing),Clínica Centro,Dr. Carlos,3
+Beatriz Lima,Tomografia de até 2 dentes,Clínica Norte,Dra. Ana,1
+Rafael Santos,Laudo Ilustrado,Clínica Sul,Dr. Roberto,1
+Fernanda Costa,Tomografia de até 6 dentes,Clínica Centro,Dra. Ana,2
